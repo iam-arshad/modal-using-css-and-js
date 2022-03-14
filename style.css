@@ -1,0 +1,22 @@
+#modal
+{
+    display:none;
+
+    position: fixed;
+    top:0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+
+    background-color: gray;
+}
+
+#modalContent
+{
+    height: 10%;
+    width: 80%;
+    margin: 10% auto;
+
+    background-color: white;
+    padding: 2%;
+}
